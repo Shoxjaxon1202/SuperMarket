@@ -1,0 +1,15 @@
+D:\Windows Form\SchoolManagement\MiniMarketSystem\bin\Debug\MiniMarketSystem.exe.config
+D:\Windows Form\SchoolManagement\MiniMarketSystem\bin\Debug\MiniMarketSystem.exe
+D:\Windows Form\SchoolManagement\MiniMarketSystem\bin\Debug\MiniMarketSystem.pdb
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.csproj.AssemblyReference.cache
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.Form1.resources
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.Properties.Resources.resources
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.csproj.GenerateResource.cache
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.csproj.CoreCompileInputs.cache
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.exe
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.pdb
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.Admin.resources
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.Dashboard.resources
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.CategoriesControl.resources
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.ProductsControl.resources
+D:\Windows Form\SchoolManagement\MiniMarketSystem\obj\Debug\MiniMarketSystem.DashboardControl.resources
